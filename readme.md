@@ -114,7 +114,7 @@ The system automatically **saves and loads data** between runs.
 
 ---
 
-## 🧭 Menu Options
+## 🧭 Menu Options ##
 
 When you run the program, you’ll see:
 
@@ -126,27 +126,27 @@ When you run the program, you’ll see:
 5. View Monthly Pass Details
 6. View Revenue Statistics
 0. Exit System
-===============================
----
-## 🧠 Example Workflow
+ ===============================
+
+## 🧠 Example Workflow ##
 ➤ Park a Vehicle
 Enter vehicle number: MH12AB1234
 Enter vehicle type (Bike/Car/Truck): Car
 ✅ The system allocates a slot, generates a ticket, and displays entry details.
----
+
 ➤ Exit a Vehicle
 Enter vehicle number: MH12AB1234
 Payment method (Cash/Card/UPI): UPI
 ✅ The system calculates charges, prints a payment receipt, and frees the slot.
----
+
 ➤ Purchase Monthly Pass
 Enter vehicle number: MH12XY7890
 ✅ Creates a new monthly pass valid for 30 days.
----
+
 ➤ View Revenue
 Displays total revenue earned and system statistics.
----
-## 📊 Example Output (Ticket & Receipt)
+
+## 📊 Example Output (Ticket & Receipt) ##
 **🎫 Parking Ticket**
 ╔════════════════════════════════════╗
 ║         PARKING TICKET             ║
@@ -170,14 +170,14 @@ Time: Wed Nov  5 15:45:23 2025
 ════════════════════════════════════
     Thank you! Visit again!
 ════════════════════════════════════
----
+
 🧹 Data Storage Notes
 Files are automatically created in the same directory as the executable.
 Do not delete text files if you want to keep historical data.
 To reset the system:
 Delete parking_tickets.txt, monthly_passes.txt, and revenue.txt.
----
-## 🏁 Exit Message
+
+## 🏁 Exit Message ##
 
 **When exiting the system:**
 
