@@ -1,6 +1,6 @@
-# 🚗 Smart Parking Management System (C++)
+# 🚗 Parking Management System (C++)
 
-A **menu-driven console application** that simulates a **Smart Parking Management System** for managing multiple floors, vehicle parking, payments, and monthly passes.  
+A **menu-driven console application** that simulates a **Parking Management System** for managing multiple floors, vehicle parking, payments, and monthly passes.  
 It automatically saves and loads data (vehicles, passes, and revenue) using local text files.
 
 ---
