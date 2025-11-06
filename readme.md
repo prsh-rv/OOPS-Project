@@ -179,5 +179,5 @@ Delete parking_tickets.txt, monthly_passes.txt, and revenue.txt.
 
 **When exiting the system:**
 
-  Thank you for using our system!   
-       Data saved successfully      
+         Thank you for using our system!   
+             Data saved successfully      
