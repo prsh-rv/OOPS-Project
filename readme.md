@@ -118,7 +118,7 @@ The system automatically **saves and loads data** between runs.
 
 When you run the program, you’ll see:
 
-========== MAIN MENU ==========
+          MAIN MENU 
 1. View Parking Status
 2. Park Vehicle (Entry)
 3. Exit Vehicle (With Payment)
@@ -126,7 +126,7 @@ When you run the program, you’ll see:
 5. View Monthly Pass Details
 6. View Revenue Statistics
 0. Exit System
- ===============================
+ 
 
 ## 🧠 Example Workflow ##
 ➤ Park a Vehicle
@@ -148,28 +148,26 @@ Displays total revenue earned and system statistics.
 
 ## 📊 Example Output (Ticket & Receipt) ##
 **🎫 Parking Ticket**
-╔════════════════════════════════════╗
-║         PARKING TICKET             ║
-╚════════════════════════════════════╝
+
 Ticket ID: TKT1730665123101
 Vehicle: MH12AB1234
 Slot: 101
 Entry Time: Wed Nov  5 14:45:23 2025
 Rate: ₹20/hour
-════════════════════════════════════
+
+---
+
 **💳 Payment Receipt**
-╔════════════════════════════════════╗
-║         PAYMENT RECEIPT            ║
-╚════════════════════════════════════╝
+
 Vehicle: MH12AB1234
 Duration: 1.00 hours
 Rate: ₹20/hour
 Amount: ₹20
 Method: UPI
 Time: Wed Nov  5 15:45:23 2025
-════════════════════════════════════
+
     Thank you! Visit again!
-════════════════════════════════════
+
 
 🧹 Data Storage Notes
 Files are automatically created in the same directory as the executable.
@@ -181,7 +179,5 @@ Delete parking_tickets.txt, monthly_passes.txt, and revenue.txt.
 
 **When exiting the system:**
 
-╔════════════════════════════════════╗
-║  Thank you for using our system!   ║
-║       Data saved successfully      ║
-╚════════════════════════════════════╝
+  Thank you for using our system!   
+       Data saved successfully      
